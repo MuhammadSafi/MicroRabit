@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rgb8+cCCx7TmFSk1BxmPwU84RlJvQ4FSwCFa2P2XxbSmHZr4Wp8xvI6a5VoPuRvICb9ibMHMTVEcg1duKJcl1Q==",
+  "dgSpecHash": "09/YLgBm6KYNaUdS11ImleCDW0a+Ww1izPmVeGc4Rk7bH1qlcGBDwykEPzEdRj8ulpJjwHXc+nED1yVPDuqt8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\msafi\\source\\repos\\MicroRabbit\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\msafi\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
