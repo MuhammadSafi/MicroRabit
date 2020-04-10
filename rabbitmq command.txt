@@ -1,0 +1,12 @@
+To stop the rabbit mq --------------------rabbitmqctl stop_app
+To Start the rabbit mq--------------------rabbitmqctl start_app
+To Reset the rabbit mq--------------------rabbitmqctl reset
+add a user in mq--------------------------rabbitmqctl add_user test test 
+for admin user in mq----------------------rabbitmqctl set_users_tags test administrator 
+persmissions------------------------------rabbitmqctl set_permissions -p / test ".*" ".*" ".*"
+
+https://medium.com/@dmytrohridin/why-you-need-to-try-mediatr-library-on-your-net-project-653165735c36
+
+
+CQS
+This approach allows separate read and write operations. But for commands and queries we need some handlers. And this is exactly where we can apply MediatR library.

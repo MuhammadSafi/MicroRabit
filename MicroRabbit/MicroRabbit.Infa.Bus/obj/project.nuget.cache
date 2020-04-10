@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShlLGvKSw1KrRPDAEKn+vNn7pilTlClOxeTaDrsmEHpVsRFaUUK4qDtCKMPrjKCQNA5xs3JxVwOlVdqr6V3hKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msafi\\source\\repos\\MicroRabbit\\MicroRabbit\\MicroRabbit.Infa.Bus\\MicroRabbit.Infa.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msafi\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\msafi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\msafi\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
