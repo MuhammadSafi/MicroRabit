@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "s5yMm2xqs7XQbLN2k8Y/eN9wL+KEMTNFmNXGg7W1wBhb5SbGRDmyN+JKTQhWzq13J/6URij6QTmK3uDoBoRGfA==",
+  "dgSpecHash": "LG64gmWx5FXS415bN40c4mfHzr++uaIC9xVRlyoUTSjWC+YCIOmSgzV1CUpGhCpIDcduwXL+OKOUrxqFA9Vlxw==",
   "success": true,
   "projectFilePath": "C:\\Users\\msafi\\source\\repos\\MicroRabbit\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\msafi\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,3 +13,5 @@ C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.genruntimeconfig.cache
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

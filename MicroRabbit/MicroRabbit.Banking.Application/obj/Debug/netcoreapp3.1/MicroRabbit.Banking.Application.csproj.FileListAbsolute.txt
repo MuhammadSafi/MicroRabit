@@ -10,3 +10,5 @@ C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Applicat
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.csproj.CopyComplete
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.dll
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.pdb
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
