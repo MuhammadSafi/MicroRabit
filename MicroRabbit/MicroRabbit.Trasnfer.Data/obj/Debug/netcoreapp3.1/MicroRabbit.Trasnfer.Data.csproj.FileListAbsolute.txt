@@ -1,0 +1,8 @@
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Trasnfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Trasnfer.Data.deps.json
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Trasnfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Trasnfer.Data.dll
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Trasnfer.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Trasnfer.Data.pdb
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Trasnfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Trasnfer.Data.csproj.CoreCompileInputs.cache
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Trasnfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Trasnfer.Data.AssemblyInfoInputs.cache
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Trasnfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Trasnfer.Data.AssemblyInfo.cs
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Trasnfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Trasnfer.Data.dll
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Trasnfer.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Trasnfer.Data.pdb

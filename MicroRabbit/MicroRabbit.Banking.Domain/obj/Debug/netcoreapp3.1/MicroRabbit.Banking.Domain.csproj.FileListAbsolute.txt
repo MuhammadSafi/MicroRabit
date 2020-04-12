@@ -9,3 +9,4 @@ C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\o
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csproj.CopyComplete
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
