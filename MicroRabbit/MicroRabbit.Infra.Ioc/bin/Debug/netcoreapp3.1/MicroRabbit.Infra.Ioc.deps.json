@@ -12,6 +12,8 @@
           "MicroRabbit.Banking.Data": "1.0.0",
           "MicroRabbit.Banking.Domain": "1.0.0",
           "MicroRabbit.Infa.Bus": "1.0.0",
+          "MicroRabbit.Transfer.Application": "1.0.0",
+          "MicroRabbit.Trasnfer.Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.1.3"
         },
         "runtime": {
@@ -906,6 +908,33 @@
         "runtime": {
           "MicroRabbit.Infa.Bus.dll": {}
         }
+      },
+      "MicroRabbit.Transfer.Application/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0",
+          "MicroRabbit.Transfer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MicroRabbit.Transfer.Application.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "MicroRabbit.Transfer.Domain.dll": {}
+        }
+      },
+      "MicroRabbit.Trasnfer.Data/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Transfer.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3"
+        },
+        "runtime": {
+          "MicroRabbit.Trasnfer.Data.dll": {}
+        }
       }
     }
   },
@@ -1559,6 +1588,21 @@
       "sha512": ""
     },
     "MicroRabbit.Infa.Bus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbit.Transfer.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbit.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbit.Trasnfer.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

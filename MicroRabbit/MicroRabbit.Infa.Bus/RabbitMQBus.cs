@@ -63,7 +63,7 @@ namespace MicroRabbit.Infa.Bus
                 _eventTypes.Add(typeof(T));
             }
 
-            if (_handlers.ContainsKey(eventName))
+            if (!_handlers.ContainsKey(eventName))
             {
 
                 _handlers.Add(eventName, new List<Type>());

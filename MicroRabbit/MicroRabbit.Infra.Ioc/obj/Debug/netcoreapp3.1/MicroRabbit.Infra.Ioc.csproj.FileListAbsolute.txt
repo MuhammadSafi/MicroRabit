@@ -18,3 +18,9 @@ C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Ioc\obj\De
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Ioc\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Ioc.csproj.CopyComplete
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Ioc\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Ioc.dll
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Ioc\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Ioc.pdb
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Ioc\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.dll
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Ioc\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Ioc\bin\Debug\netcoreapp3.1\MicroRabbit.Trasnfer.Data.dll
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Ioc\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.pdb
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Ioc\bin\Debug\netcoreapp3.1\MicroRabbit.Trasnfer.Data.pdb
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Ioc\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
