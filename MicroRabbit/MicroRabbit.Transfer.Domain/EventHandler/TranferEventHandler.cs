@@ -1,5 +1,7 @@
 ﻿using MicroRabbit.Domain.Core.Bus;
 using MicroRabbit.Transfer.Domain.Events;
+using MicroRabbit.Transfer.Domain.Interfaces;
+using MicroRabbit.Transfer.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,10 +11,23 @@ namespace MicroRabbit.Transfer.Domain.EventHandler
 {
     public class TranferEventHandler : IEventHandler<TransferCreatedEvent>
     {
-        public TranferEventHandler() { }
+        private readonly ITransferRepository _transferRepository;
+        public TranferEventHandler(ITransferRepository transferRepository)
+        {
+            _transferRepository = transferRepository;
+        }
 
         public Task Handle(TransferCreatedEvent @event)
         {
+            _transferRepository.Add(new TransferLog()
+            {
+
+                FromAccount =@event.From,
+                ToAccount=@event.To,
+                TransferAmount=@event.Amount
+
+            });
+
             return Task.CompletedTask;
         }
     }

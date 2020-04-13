@@ -24,10 +24,19 @@ namespace MicroRabbit.Infra.Ioc
 {
     public class DependencyContainer
     {
-        public static void RegisterServices(IServiceCollection services) {
+        public static void RegisterServices(IServiceCollection services)
+        {
 
             //Domain Bus
-            services.AddTransient<IEventBus,RabbitMQBus>();
+            services.AddSingleton<IEventBus, RabbitMQBus>(sp =>
+            {
+                var scopeFactory = sp.GetRequiredService<IServiceScopeFactory>();
+                return new RabbitMQBus(sp.GetService<IMediator>(),scopeFactory);
+
+            });
+
+            //subscription 
+            services.AddTransient<TranferEventHandler>();
 
             //Domain Bus
             services.AddTransient<IEventHandler<TransferCreatedEvent>, TranferEventHandler>();

@@ -1,5 +1,4 @@
 ﻿using MicroRabbit.Transfer.Domain.Models;
-using MicroRabbit.Transfer.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

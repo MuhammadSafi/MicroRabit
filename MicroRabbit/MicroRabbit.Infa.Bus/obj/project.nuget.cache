@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ShlLGvKSw1KrRPDAEKn+vNn7pilTlClOxeTaDrsmEHpVsRFaUUK4qDtCKMPrjKCQNA5xs3JxVwOlVdqr6V3hKg==",
+  "dgSpecHash": "OkG6Fx24Bl/Iq1hgfpQLhlTI4/WGia6I3uZkC+aDpIw0PMuDeNzbAC+0x5e910pFSjiPLACTbU7tyx7r/L8/+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\msafi\\source\\repos\\MicroRabbit\\MicroRabbit\\MicroRabbit.Infa.Bus\\MicroRabbit.Infa.Bus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msafi\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\msafi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\msafi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\msafi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\msafi\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
   ],

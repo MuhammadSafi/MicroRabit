@@ -4,9 +4,9 @@ C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infa.Bus\bin\Deb
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infa.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infa.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infa.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infa.Bus.csprojAssemblyReference.cache
-C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infa.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infa.Bus.csproj.CoreCompileInputs.cache
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infa.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infa.Bus.AssemblyInfoInputs.cache
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infa.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infa.Bus.AssemblyInfo.cs
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infa.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infa.Bus.csproj.CopyComplete
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infa.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infa.Bus.dll
 C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infa.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infa.Bus.pdb
+C:\Users\msafi\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Infa.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infa.Bus.csproj.CoreCompileInputs.cache
