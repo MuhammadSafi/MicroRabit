@@ -50,7 +50,7 @@ namespace MicroRabbit.MVC.Controllers
 
             await _transferService.Transfer(trasnferDto);
 
-            return View();
+            return View("Index");
         }
     }
 }
